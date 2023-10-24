@@ -253,6 +253,7 @@ p, a{
     border: 1px solid black;
     text-align: center;
     text-align: center;
+    align-self: center;
 }
 
 .oferta1 .titulo-oferta1{
@@ -272,25 +273,11 @@ p, a{
     box-shadow: 1px 9px 20px -6px rgba(1, 1, 32, 0.7);
 }
 
-.btnhotel{
-    background-color: lightcoral;
-    width: 40%;
-    height: 30px;
-    font-size: 20px;
-}
-
-.btnhotel:hover{
-    background-color: lightgray;
-    width: 40%;
-    height: 30px;
-    font-size: 20px;
-}
-
 .btninfo{
     background-color: aqua;
-    width: 30%;
+    width: 80%;
     height: 22px;
-    font-size: 12px;
+    font-size: 70%;
     border: none;
     border-radius: 6%;
     margin: 10px;
@@ -298,9 +285,9 @@ p, a{
 
 .btninfo:hover{
     background-color: lightgray;
-    width: 30%;
+    width: 80%;
     height: 22px;
-    font-size: 12px;
+    font-size: 70%;
 }
 
 /*pagina de informacion lugares*/
@@ -336,22 +323,22 @@ p, a{
 .btnhotel{
     color: #fff;
     background-color: #0a0027;
-    width: 40%;
+    width: 80%;
     height: 40px;
-    font-size: 20px;
+    font-size: 90%;
     border: none;
     text-decoration: none;
-    padding: 10px;
+    padding: 1%;
     border-radius: 5%;
 }
 
 .btnhotel:hover{
     background-color: #1766a3;
-    width: 40%;
+    width: 80%;
     height: 40px;
-    font-size: 10px;
+    font-size: 70%;
     border: none;
-    padding: 10px;
+    padding: 1%;
 }
 
 /* carrusel */
