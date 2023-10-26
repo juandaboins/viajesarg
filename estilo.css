@@ -245,7 +245,7 @@ p, a{
                          'aside1  . . .'
                          'aside1  . . .';
     gap: 10px;
-    padding: 30px;
+    padding: 5px;
 }
 
 .oferta1{
@@ -296,6 +296,7 @@ p, a{
     position: relative;
     display: inline-block;
     width: 100%;
+    
 }
 
 .texto-titulo{
@@ -317,7 +318,8 @@ p, a{
     gap: 1rem;
     border: 1px solid black;
     margin: 20px;
-    padding: 20px;    
+    padding: 20px; 
+     
 }
 
 .btnhotel{
